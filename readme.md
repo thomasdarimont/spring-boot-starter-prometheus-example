@@ -8,6 +8,6 @@ in a spring-boot application.
 <dependency>
     <groupId>de.tdlabs</groupId>
     <artifactId>prometheus-spring-boot-starter</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.1.0.RELEASE</version>
 </dependency>
 ```
